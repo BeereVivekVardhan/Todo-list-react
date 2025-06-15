@@ -1,0 +1,11 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+
+- use always bun instead of npm
+- THis is backend project of todo
+- It has Express, Typescript and mongoose
+
+- keep everything in src folder
